@@ -1,1 +1,4 @@
-
+RPM Resolusi
+- konsisten membuat aplikasi Manajemen perumahan dengan framework laravel 13/terbaru
+- perhari 5 jam
+- target 1 bulan selesai
